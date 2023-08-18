@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-IMS offers a comprehensive solution for managing and monitoring different aspects of infrastructure. The project structure is divided into various categories, each addressing specific requirements:
+DIMS offers a comprehensive solution for managing and monitoring different aspects of infrastructure. The project structure is divided into various categories, each addressing specific requirements:
 
 ## Getting Started
 

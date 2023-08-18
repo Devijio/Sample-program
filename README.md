@@ -2,6 +2,16 @@
 
 The DIMS_Automation (DIMS) is a powerful project designed to manage and monitor various aspects of your organization's infrastructure. This `readme.md` file provides an overview of the project's structure, key components, and instructions on how to use it effectively.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Getting Started](#getting-started)
+- [Components](#components)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [License](#license)
+
+
 ## Project Overview
 
 DIMS encompasses a variety of components organized into distinct categories, each serving a specific purpose. Here's a breakdown of the project's key components:

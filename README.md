@@ -4,7 +4,7 @@ The DIMS_Automation (DIMS) is a powerful project designed to manage and monitor 
 
 ## Project Overview
 
-IMS encompasses a variety of components organized into distinct categories, each serving a specific purpose. Here's a breakdown of the project's key components:
+DIMS encompasses a variety of components organized into distinct categories, each serving a specific purpose. Here's a breakdown of the project's key components:
 
 ## Initial Setup
 

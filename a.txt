@@ -1,2 +1,4 @@
 a apple
 b for ball
+c cat
+d dog
